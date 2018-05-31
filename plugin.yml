@@ -1,7 +1,7 @@
 name: ZipPluginLoader
 main: ZipPluginLoader\Main
 version: 1.2.1
-api: 2.0.0
+api: 3.0.0-ALPHA12
 load: STARTUP
 author: aliuly
 description: Load Zip packed plugins
